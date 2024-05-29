@@ -1,16 +1,15 @@
-# game_challenge
+# Tic-Tac-Toe
+A simple Tic-tac-toe game implemented in Flutter.
+## Features
+Play against another player (two-player mode).
+Play against another Ai (2 level available (easy-hard).
+Basic UI with a 3x3 grid.
+Winner detection logic.
+Reset button to start a new game.
+## How to Play
+Launch the app.
+Tap on an empty cell to place your mark (X).
+The first player to get three marks in a row (horizontally, vertically, or diagonally) wins.
+Press the “Restart” button to start a new game.
 
-tic-tac-toe
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
