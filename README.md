@@ -1,15 +1,17 @@
 # Tic-Tac-Toe
-A simple Tic-tac-toe game implemented in Flutter.
+A simple Tic-Tac-Toe game implemented in Flutter. 🎮🖤🟡
 ## Features
--Play against another player (two-player mode)
+Features:
 
--Play against another Ai (2 level available (easy-hard)
+🆚 Play against another player (two-player mode)
 
--Basic UI with a 3x3 grid
+🤖 Play against AI (2 levels available: easy and hard)
 
--Winner detection logic.
+📐 Basic UI with a 3x3 grid
 
--Reset button to start a new game
+🏆 Winner detection logic
+
+🔄 Reset button to start a new game
 
 ## How to Play
 Launch the app.
