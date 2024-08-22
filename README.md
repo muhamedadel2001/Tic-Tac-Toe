@@ -14,13 +14,12 @@ Features:
 🔄 Reset button to start a new game
 
 ## How to Play
-Launch the app.
+How to Play:
 
-Tap on an empty cell to place your mark (X).
-
-The first player to get three marks in a row (horizontally, vertically, or diagonally) wins.
-
-Press the “Restart” button to start a new game.
+🚀 Launch the app.
+🖱️ Tap on an empty cell to place your mark (X).
+🏆 The first player to get three marks in a row (horizontally, vertically, or diagonally) wins.
+🔄 Press the “Restart” button to start a new game.
 
 
 
